@@ -1,0 +1,208 @@
+{
+  "version": 1,
+  "base_track": "Someone Like You",
+  "base_artist": "Adele",
+  "createdAt": "2026-02-27T09:42:01.372705Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Someone Like You",
+      "artist": "Adele",
+      "has_synced": true,
+      "path": "select/01_Someone_Like_You_Adele.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Someone Like You",
+      "artist": "Adele",
+      "has_synced": true,
+      "path": "select/02_Someone_Like_You_Adele.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Someone Like You - Live Acoustic",
+      "artist": "Adele",
+      "has_synced": true,
+      "path": "select/03_Someone_Like_You_-_Live_Acoustic_Adele.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "It Feels So Good to Love Someone Like You",
+      "artist": "Terence Trent D’Arby",
+      "has_synced": true,
+      "path": "select/04_It_Feels_So_Good_to_Love_Someone_Like_You_Terence_Trent_D’Arby.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "It Feels So Good To Love Someone Like You",
+      "artist": "Terence Trent D'Arby",
+      "has_synced": true,
+      "path": "select/05_It_Feels_So_Good_To_Love_Someone_Like_You_Terence_Trent_D'Arby.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Someone Like You",
+      "artist": "Patti LaBelle",
+      "has_synced": false,
+      "path": "select/06_Someone_Like_You_Patti_LaBelle.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Someone Like You",
+      "artist": "The Stranglers",
+      "has_synced": true,
+      "path": "select/07_Someone_Like_You_The_Stranglers.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Someone Like You",
+      "artist": "ICEHOUSE",
+      "has_synced": true,
+      "path": "select/08_Someone_Like_You_ICEHOUSE.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Someone Like You",
+      "artist": "New Order",
+      "has_synced": true,
+      "path": "select/09_Someone_Like_You_New_Order.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "A Letter to Someone Like You",
+      "artist": "Atreyu",
+      "has_synced": true,
+      "path": "select/10_A_Letter_to_Someone_Like_You_Atreyu.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Someone Like You",
+      "artist": "Adele",
+      "has_synced": true,
+      "path": "select/11_Someone_Like_You_Adele.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Someone Like You",
+      "artist": "Adele",
+      "has_synced": true,
+      "path": "select/12_Someone_Like_You_Adele.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Someone Like You",
+      "artist": "Adele",
+      "has_synced": true,
+      "path": "select/13_Someone_Like_You_Adele.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Someone Like You",
+      "artist": "Adele",
+      "has_synced": true,
+      "path": "select/14_Someone_Like_You_Adele.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Someone Like You (Live Acoustic)",
+      "artist": "Adele",
+      "has_synced": true,
+      "path": "select/15_Someone_Like_You_(Live_Acoustic)_Adele.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Someone Like You (Live Acoustic) (Japan Bonus Track)",
+      "artist": "Adele",
+      "has_synced": true,
+      "path": "select/16_Someone_Like_You_(Live_Acoustic)_(Japan_Bonus_Track)_Adele.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Someone Like You (Live At Brit Awards 2011)",
+      "artist": "Adele",
+      "has_synced": true,
+      "path": "select/17_Someone_Like_You_(Live_At_Brit_Awards_2011)_Adele.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Love Someone Like Me",
+      "artist": "Holly Dunn",
+      "has_synced": true,
+      "path": "select/18_Love_Someone_Like_Me_Holly_Dunn.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Love Someone Like Me (Album Version)",
+      "artist": "Holly Dunn",
+      "has_synced": true,
+      "path": "select/19_Love_Someone_Like_Me_(Album_Version)_Holly_Dunn.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "someone like u - interlude",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/20_someone_like_u_-_interlude_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "someone like u (interlude)",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/21_someone_like_u_(interlude)_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Someone Like Me",
+      "artist": "Röyksopp",
+      "has_synced": true,
+      "path": "select/22_Someone_Like_Me_Röyksopp.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Someone Like The Moon",
+      "artist": "Pulp",
+      "has_synced": true,
+      "path": "select/23_Someone_Like_The_Moon_Pulp.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Someone Like Me",
+      "artist": "Cyndi Lauper",
+      "has_synced": false,
+      "path": "select/24_Someone_Like_Me_Cyndi_Lauper.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Someone like you",
+      "artist": "Adele",
+      "has_synced": false,
+      "path": "select/pl_01_Someone_like_you_Adele.txt"
+    }
+  ]
+}
